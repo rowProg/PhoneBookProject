@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { ModelModule } from "./model/model.module";
 import { router } from "./routes";
-import { PhoneBookModule } from "./phoneBook/phonebook.module";
+import { PhoneBookModule } from "./phoneBooks/phonebook.module";
 import { CreateUserModule } from "./createUser/createuser.module";
 import { EditUserModule } from "./editUser/edituser.module";
 import { DeleteUserModule } from "./deleteUser/deleteuser.module";
