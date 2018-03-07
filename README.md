@@ -1,6 +1,6 @@
 # PhoneBookProject
 
-This project present simple web application like a telephone book.
+This project present simple web application, a telephone book.
 Project was write to AngularJs framework.
 Using other structurs blocks: components, modules, services.
 In the each file staying the comments by work application.
