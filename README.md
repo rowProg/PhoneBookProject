@@ -3,7 +3,7 @@
 This project present simple web application, a telephone book.
 Project was write to AngularJs framework.
 Uses different structurs blocks: components, modules, services.
-In the each file staying the comments by work application.
+In the each file are the comments by work application.
 
 # For creating a user at the phone book, need will write name, surname and telephone.
 
